@@ -25,15 +25,15 @@ A fun and interactive number guessing game built with HTML, CSS, and JavaScript.
 Since this is a static web frontend project, you don't need any special servers or environments to run it.
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/guess-my-number.git](https://github.com/yourusername/guess-my-number.git)
-   
-2. Navigate to the project folder:
-Bash
-cd guess-my-number
+   git clone https://github.com/yourusername/guess-my-number.git
 
-3. Open the index.html file in any modern web browser.
-📂 Project Structure
-index.html - The main HTML document
-style.css - Contains all the styling for the game.
-script.js - Contains the JavaScript logic for the game.
+2. Navigate to the project folder:
+   cd guess-my-number
+
+3. Open the `index.html` file in any modern web browser.
+
+## 📂 Project Structure
+
+* `index.html` - The main HTML document.
+* `style.css` - Contains all the styling for the game.
+* `script.js` - Contains the JavaScript logic for the game.
